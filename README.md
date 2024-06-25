@@ -19,7 +19,7 @@
     <img width="50%" align="right" alt="Vmodel" src="https://i0.wp.com/kysubrse.com/wp-content/uploads/2023/11/V-model.webp?resize=768%2C432&ssl=1" />
     </br>
     1️⃣  Become BrSE: </br>
-        →　study test skill for コンポーネントテスト・結合テスト・受入テ </br>
+        →　study test skill for コンポーネントテスト・結合テスト・受入テスト </br>
         →　study design skills for 詳細設計・基本設計・要件定義</br>
 
 
