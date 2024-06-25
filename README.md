@@ -27,7 +27,7 @@
 
 
 
-- ⚡ Fun fact: I love to make things, travel, read instruction of everything, and communicate with others to share my understanding
+- ⚡ I have a passion for creating things, exploring new places, diving into instruction manuals, and sharing my insights through communication.
 
 
 <!-- programming language -->
